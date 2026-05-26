@@ -99,7 +99,7 @@ How can the introduction of renewable energy sources and process improvements in
 
 ## 🏁 Conclusion
 
-This Discrete Event Simulation successfully demonstrates that sustainable manufacturing practices — particularly higher renewable energy integration and better quality control — can significantly improve the environmental performance of automotive brake disc production while maintaining efficiency.
+This Discrete Event Simulation successfully demonstrates that sustainable manufacturing practices, particularly higher renewable energy integration and improved quality control, can significantly enhance the environmental performance of automotive brake disc production while maintaining operational efficiency.
 
 **Keywords:** Discrete Event Simulation, Sustainable Manufacturing, AnyLogic, Brake Discs, Carbon Footprint, Renewable Energy, Automotive Industry
 
