@@ -1,42 +1,109 @@
-🌱 MODELLING AND SIMULATION FOR SUSTAINABLE MANUFACTURING
+#  Simulation of Sustainable Manufacturing Practices for Automotive Brake Discs Using Discrete Event Simulation⚙️🌱
 
-📚 Executive Summary.
+<p align="center">
+  <img src="https://img.shields.io/badge/AnyLogic-FF6F00?logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discrete%20Event%20Simulation-1E90FF?logo=dependabot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sustainable%20Manufacturing-228B22?logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Renewable%20Energy-32CD32?logo=greencircle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Carbon%20Footprint%20Analysis-556B2F?logo=cloudsmith&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automotive%20Manufacturing-696969?logo=tesla&logoColor=white" />
+  <img src="https://img.shields.io/badge/Process%20Optimization-6A5ACD?logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Industrial%20Engineering-4682B4?logo=azuredevops&logoColor=white" />
+</p>
 
-This project provides a comprehensive simulation study of the sustainable manufacturing process for automotive brake discs focusing on energy consumption, carbon footprint, and process efficiency. Using AnyLogic software and the Discrete Event Simulation (DES) methodology, key production stages including machining, inspection, reworking, packaging, and shipping were modeled for a standard 9-hour shift. Key performance indicators (KPIs) such as total energy consumption, renewable energy share, carbon footprint, throughput time, and scrap rate were analyzed to evaluate operational efficiency and sustainability
+---
 
-The simulation recorded a total energy consumption of 80,476 kWh with 70 percent from renewable sources at 56,333.2 kWh and 30 percent from non-renewable sources at 24,142.8 kWh. Carbon emissions totaled 41,764.5 kg CO₂, highlighting the impact of non-renewable energy reliance. Production efficiency was high with 85 percent of units successfully shipped, a 14 percent rework rate, and only 1 percent scrapped units, while the average throughput time was 657.7 seconds per unit. Resource utilization showed Manual Operator 1 at 74 percent, Operator 2 at 35 percent, and machines at 71 percent suggesting opportunities for workload balancing and efficiency improvements
+## 📥 Download Project Report
 
-📈 Key Results.
+**[📄 Download Full Project PDF](https://raw.githubusercontent.com/wisemansg/sustainablemanufacturing/main/assets/Modelling%20and%20Simulation%20for%20Sustainable%20Manufacturing%20Project.pdf)**
 
-Energy Consumption and Carbon Footprint: 70 percent renewable energy usage with non-renewable sources contributing significantly to CO₂ emissions
-Production Performance: 85 percent success rate, 14 percent rework, 1 percent scrap
-Throughput Time: Average of 657.7 seconds clustered between 400 and 800 seconds
-Resource Utilization: Operator 1 at 74 percent, Operator 2 at 35 percent, machine utilization at 71 percent
-Sustainability: Strong renewable energy usage with further optimization needed to reduce carbon footprint
+---
 
-🔧 Tools and Software Used.
+## 📌 Executive Summary
 
--AnyLogic software for DES simulation
--Discrete Event Simulation methodology
--KPIs tracked included energy usage, throughput, scrap, and rework rates
+This project presents a **Discrete Event Simulation (DES)** study of the manufacturing process for automotive brake discs using **AnyLogic** software. The simulation evaluates energy consumption, carbon emissions, production efficiency, and sustainability performance over a standard 9-hour shift.
 
-💡 Recommendations.
+Key results include:
+- Total Energy Consumption: **80,476 kWh**
+- Renewable Energy Share: **70%**
+- Total Carbon Footprint: **41,764.5 kg CO₂**
+- Scrap Rate: **1%**
+- Rework Rate: **14%**
+- Average Throughput Time: **657.7 seconds**
 
--Improve Quality Control Implement AI-powered inspection systems to reduce the 14 percent rework rate
--Optimize Resource Allocation Balance operator workloads and enhance machine utilization
--Reduce Throughput Variability Automate repetitive tasks and streamline workflow design
--Enhance Sustainability Increase renewable energy share to 100 percent, integrate energy storage, and phase out non-renewable sources
--Monitor Emissions Conduct regular carbon audits and adopt low-carbon technologies
--Training and Continuous Improvement Upskill operators and foster a culture of continuous process optimization
+The study demonstrates how increasing renewable energy usage and improving quality control can significantly enhance sustainability in automotive component manufacturing.
 
-✅ Conclusion.
+---
 
-The simulation demonstrates that DES is highly effective for modeling complex manufacturing systems enabling data-driven decisions for energy efficiency, environmental impact reduction, and operational optimization. While the system shows strong sustainability performance and production efficiency, improvements in quality control, throughput management, and resource allocation are needed. Implementing the recommended strategies can enhance overall efficiency, reduce costs, and strengthen environmental performance, supporting competitiveness in an eco-conscious market
+## 🖼️ Model Visualization
 
-📖 List of Abbreviations and Glossary.
+**Flow Chart of Model Stages**
 
-DES -Discrete Event Simulation
+![Flow Chart of Model Stages](https://raw.githubusercontent.com/wisemansg/sustainablemanufacturing/main/assets/Flow%20Chart%20of%20Model%20Stages..jpeg)
 
-KPIs -Key Performance Indicators
+**System Before Running the Simulation**
 
-CO₂ -Carbon Dioxide
+![System Before Simulation](https://raw.githubusercontent.com/wisemansg/sustainablemanufacturing/main/assets/The%20system%20before%20running%20the%20simulation.jpeg)
+
+**System After Running the Simulation**
+
+![System After Simulation](https://raw.githubusercontent.com/wisemansg/sustainablemanufacturing/main/assets/The%20system%20after%20running%20the%20simulation.jpeg)
+
+---
+
+## 🎯 Purpose of the Simulation
+
+To model and analyze the manufacturing process of automotive brake discs with a focus on reducing energy consumption, carbon emissions, and material waste while maintaining production efficiency.
+
+---
+
+## ❓ Problem Statement
+
+How can the introduction of renewable energy sources and process improvements in brake disc production effectively reduce the carbon footprint without compromising operational efficiency?
+
+---
+
+## 🧠 Methodology
+
+- **Simulation Method:** Discrete Event Simulation (DES)
+- **Software:** AnyLogic
+- **Simulation Duration:** 9-hour production shift (8 AM – 5 PM)
+- **Key Stages Modeled:** Parts Arrival → Preparation → Machining → Inspection → Rework/Scrap → Packaging → Shipping
+
+---
+
+## 📊 Key Results
+
+| Metric                        | Value                  |
+|-------------------------------|------------------------|
+| Total Energy Consumption      | 80,476 kWh            |
+| Renewable Energy              | 70% (56,333.2 kWh)    |
+| Non-Renewable Energy          | 30% (24,142.8 kWh)    |
+| Total Carbon Footprint        | 41,764.5 kg CO₂       |
+| Successful Outputs            | 85% (3,254 units)     |
+| Rework Rate                   | 14% (517 units)       |
+| Scrap Rate                    | 1% (25 units)         |
+| Average Throughput Time       | 657.7 seconds         |
+
+---
+
+## 💡 Recommendations
+
+- Increase renewable energy share to 100%
+- Implement advanced quality control (e.g., AI defect detection) to reduce rework
+- Optimize resource allocation between operators
+- Reduce process delays and cycle time variability
+- Adopt energy-efficient machinery
+
+---
+
+## 🏁 Conclusion
+
+This Discrete Event Simulation successfully demonstrates that sustainable manufacturing practices — particularly higher renewable energy integration and better quality control — can significantly improve the environmental performance of automotive brake disc production while maintaining efficiency.
+
+**Keywords:** Discrete Event Simulation, Sustainable Manufacturing, AnyLogic, Brake Discs, Carbon Footprint, Renewable Energy, Automotive Industry
+
+---
+
+**Author:** Wiseman Siriro  
+**Course:** TØL4020 – Modelling and Simulation for Sustainable Manufacturing
